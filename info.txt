@@ -2,3 +2,4 @@ Shruthi
 Bangalore
 Alvogen
 Architect
+GIT, Jekins, Docker, Kubernetes, Ansible
